@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\Trabajo_Practico_1.Form1.resources
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\Trabajo_Practico_1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\Trabajo Practico 1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\Trabajo Practico 1.exe.config
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\Trabajo Practico 1.exe
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\Trabajo Practico 1.pdb
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\Trabajo Practico 1.exe
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\Trabajo Practico 1.pdb
+C:\Users\Usuario\source\repos\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\Trabajo_Practico_1.Form2.resources
